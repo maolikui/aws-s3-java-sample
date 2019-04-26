@@ -17,6 +17,6 @@ This app integrated the AWS SDK of version 2.x will help you to connect to s3 to
   aws.s3.region=cn-northwest-1(Nixia China for example)
   
  - last step
-  buile and run your app at last.
+  buile and run your server at last.
   
   
