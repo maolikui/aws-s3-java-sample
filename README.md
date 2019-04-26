@@ -16,6 +16,7 @@ This app integrated the AWS SDK of version 2.x will help you to connect to s3 to
   aws.s3.bucket=your bucket name
   aws.s3.region=cn-northwest-1(Nixia China for example)
   
-  Buile and run your app at last.
+- last step
+  build and run your server at last.
   
   
